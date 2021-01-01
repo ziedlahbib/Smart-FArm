@@ -1,0 +1,4 @@
+veau 1 femelle 2 2 2020 
+veau 2 femelle 1 1 2020 
+veau 3 femelle 2 3 2020 
+agneau 6 male 1 1  
