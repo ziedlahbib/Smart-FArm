@@ -1,0 +1,6 @@
+2 Temperature 
+3 Temperature 
+6 Temperature 
+8 Temperature 
+9 Humidite 
+5 Temperature 

@@ -1,0 +1,6 @@
+2 aa Temperature Marque1 50 -10 
+3 ee Temperature Marque1 50 -10 
+6 yy Temperature Marque1 50 -10 
+8 xx Temperature Marque1 50 -10 
+9 sqd Humidite Marque2 50 -5 
+5 azer Temperature Marque2 12 13 
